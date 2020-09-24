@@ -1,0 +1,26 @@
+{
+    "config": {
+        "chainId": 0,
+        "byzantiumBlock": 0,
+        "constantinopleBlock": 0,
+        "petersburgBlock": 0,
+        "homesteadBlock": 0,
+        "istanbulBlock": 0,
+        "eip150Block": 0,
+        "eip155Block": 0,
+        "eip158Block": 0
+    },
+    "difficulty": "0x400",
+    "gasLimit": "0xE0000000",
+    "alloc": {
+        "HIASBlockchainUser": {
+            "balance": "99999999999999999999999999999999999999999999999999999999999999999999999999999"
+        },
+        "iotJumpWayBlockchainUser": {
+            "balance": "99999999999999999999999999999999999999999999999999999999999999999999999999999"
+        },
+        "YourBlockChainUser": {
+            "balance": "99999999999999999999999999999999999999999999999999999999999999999999999999999"
+        }
+    }
+}
